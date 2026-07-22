@@ -48,3 +48,8 @@ A Sra. Carla Prestes é nutricionista e precisa de um sistema para cadastrar seu
 |Full Stack:|
 |-|
 |Missão: Desenvolver um sistema integrado com banco de dados relacional, API e UI(User Interface) requisitos funcionais e wireframes acima, se preferir pode utilizar banco não relacional como Firebase/firestore ao invés de API porém atente-se a segurança das chaves de API|
+
+
+|Engenharia de software:|
+|-|
+|Missão: Desenvolva um UML DA(Diagrama de atividades) para servir de manual para o usuário dos processos de cadastro, alteração e exclusão de pacientes|
