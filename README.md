@@ -53,3 +53,6 @@ A Sra. Carla Prestes é nutricionista e precisa de um sistema para cadastrar seu
 |Engenharia de software:|
 |-|
 |Missão: Desenvolva um UML DA(Diagrama de atividades) para servir de manual para o usuário dos processos de cadastro, alteração e exclusão de pacientes|
+
+## Entregas
+Faça fork deste repositório renomeando para "desafio_nutricionista_<stack>", clone em seu computador, desenvolva as funcionalidades e faça commit para o seu repositório. 
