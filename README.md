@@ -3,10 +3,11 @@
 ## Contextualização:
 
 A Sra. Carla Prestes é nutricionista e precisa de um sistema para cadastrar seus pacientes e que faça uma rápida anamnese (pré-diagnóstico)
-- O Analista de sistemas já realizou a **análise de requisitos** e documentou conforme diagramas a seguir:
+- O Analista de sistemas já elencou as **Regras de negócio** e realizou a **análise de requisitos** documentando conforme diagramas a seguir:
 
 |Documento|Diagrama|
 |-|-|
+|Regras de negócio|[RN001] Manter um cadastro de pacientes com nome, nascimento, peso, altura, imc e pré diagnóstico<br>[RN002]Calcular o IMC e pré diagnóstico conforme tabela [RN003]Permitir alteração de dados[RN004]Permitir exclusão de dados|
 |DER Modelo Conceitual|![DER Modelo Conceitual](./imgs/der_imc.png)|
 |UML - DC|![UML DC (Diagrama de Classes)](./imgs/uml_dc_imc.png)|
 |UML - DCU|![UML DCU (Diagrama de Casos de Uso)](./imgs/uml_dcu_imc.png)|
